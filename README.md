@@ -8,7 +8,7 @@ If any questions arise during the hackathon, don't hesitate to contact me:
 Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com)
 
 The content of this hackathon manual is as follows:
-1) Getting ready with `pytket`
+1) [Getting ready with `pytket`](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Getting%20ready%20with%20pytket.ipynb)
 2) [Building circuits with `pytket`](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Building%20circuits%20with%20pytket.ipynb)
 3) Running a circuit on IBM's backends
 4) [Access to Quantinuum and IonQ Backends](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Access%20to%20Quantinuum%20and%20IonQ%20Backends.ipynb)
