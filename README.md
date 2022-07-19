@@ -7,6 +7,11 @@ TKET is the leading open-source developer toolkit designed to compile and optimi
 If any questions arise during the hackathon, don't hesitate to contact me:
 Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com)
 
+The content of this hackathon manual is as follows:
+#### Getting ready with `pytket`
+#### Running a circuit on IBM's backends
+
+
 ## Note
 File "LiHJordanWignerMapper.qasm":
 Ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
