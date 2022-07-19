@@ -20,6 +20,11 @@ Recommended examples applicable to this Hackathon you can go through as a contin
 - [Circuit Optimization](https://github.com/CQCL/pytket/blob/master/examples/compilation_example.ipynb)
 - [Advanced techniques for creating circuits](https://github.com/CQCL/pytket/blob/master/examples/circuit_generation_example.ipynb)
 
+
+# Your Hackathon Challenge: World-class Quantum chemistry with TKET
+Your company builds hydrogen fuel cell vehicles and is interested in finding new ways for a cost-effective and compact hydrogen storage system. You are working in the research and development (R&D) department and are tasked to evaluate the feasibility to simulate the quantum state of a Lithium Hydride (LiH) molecule using a gate-based quantum device. Based on the known gate sets and the qubit coupling map, you are tasked to find the best quantum device currently available.
+
+
 ## Note
 File "LiHJordanWignerMapper.qasm":
 Ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
