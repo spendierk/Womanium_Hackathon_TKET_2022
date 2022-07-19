@@ -1,4 +1,4 @@
-# Qiantinuum's TKET challenge for the Womanium Hackathon
+# Quantinuum's TKET challenge for the Womanium Hackathon
 
 On behalf of Quantinuum, welcome to the Womanium Hackathon! This little guide should get you started quickly in `pytket`, a high-performance Python library for building and simplifying quantum programs.
 
