@@ -9,8 +9,9 @@ Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quan
 
 The content of this hackathon manual is as follows:
 1) Getting ready with `pytket`
-2) Running a circuit on IBM's backends
-3) Access to Quantinuum and IonQ Backends
+2) Building circuits with `pytket`
+3) Running a circuit on IBM's backends
+4) Access to Quantinuum and IonQ Backends
 
 This was a first glimpse of the workflow from the design of a quantum circuit to its execution. There is much more to discover by looking at an entire series of example notebooks for `pytket`
 available on the [pytket github](https://github.com/CQCL/pytket/tree/master/examples).
