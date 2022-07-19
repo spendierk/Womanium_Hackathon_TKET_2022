@@ -10,7 +10,15 @@ Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quan
 The content of this hackathon manual is as follows:
 1) Getting ready with `pytket`
 2) Running a circuit on IBM's backends
+3) Access to Quantinuum and IonQ Backends
 
+This was a first glimpse of the workflow from the design of a quantum circuit to its execution. There is much more to discover by looking at an entire series of example notebooks for `pytket`
+available on the [pytket github](https://github.com/CQCL/pytket/tree/master/examples).
+
+Recommended examples applicable to this Hackathon you can go through as a continuation of this introduction include:
+- [Run a circuit on the backends](https://github.com/CQCL/pytket/blob/master/examples/backends_example.ipynb)
+- [Circuit Optimization](https://github.com/CQCL/pytket/blob/master/examples/compilation_example.ipynb)
+- [Advanced techniques for creating circuits](https://github.com/CQCL/pytket/blob/master/examples/circuit_generation_example.ipynb)
 
 ## Note
 File "LiHJordanWignerMapper.qasm":
