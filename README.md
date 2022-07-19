@@ -8,8 +8,8 @@ If any questions arise during the hackathon, don't hesitate to contact me:
 Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com)
 
 The content of this hackathon manual is as follows:
-#### Getting ready with `pytket`
-#### Running a circuit on IBM's backends
+1) Getting ready with `pytket`
+2) Running a circuit on IBM's backends
 
 
 ## Note
