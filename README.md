@@ -1,5 +1,3 @@
 # Hackathon_circuits
 
-from pytket.qasm import circuit_from_qasm
-
-c = circuit_from_qasm("my_qasm_file.qasm")
+Ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
