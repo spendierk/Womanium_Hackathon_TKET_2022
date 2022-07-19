@@ -23,7 +23,10 @@ Recommended examples applicable to this Hackathon you can go through as a contin
 
 
 # Your Hackathon Challenge: World-class Quantum chemistry with TKET
+
 Your company builds hydrogen fuel cell vehicles and is interested in finding new ways for a cost-effective and compact hydrogen storage system. You are working in the research and development (R&D) department and are tasked to evaluate the feasibility to simulate the quantum state of a Lithium Hydride (LiH) molecule using a gate-based quantum device. Based on the known gate sets and the qubit coupling map, you are tasked to find the best quantum device currently available.
+
+## See [here] for challenge details
 
 
 ## Note
