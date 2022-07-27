@@ -26,8 +26,21 @@ Recommended examples applicable to this Hackathon you can go through as a contin
 
 Your company builds hydrogen fuel cell vehicles and is interested in finding new ways for a cost-effective and compact hydrogen storage system. You are working in the research and development (R&D) department and are tasked to evaluate the feasibility to simulate the quantum state of a Lithium Hydride (LiH) molecule using a gate-based quantum device. Based on the known gate sets and the qubit coupling maps, you are tasked to find the best quantum device currently available.
 
-## See [here](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/2022%20Womanium%20Hackathon%20challenge%20-%20Quantinuum.pdf) for challenge details
+## Beginner: 
+You will first get a feel for how TKET optimizes and compiles sample circuits for a given backend. You can create a sample circuit of your choice, or you can use some circuits, given as QASM code, here. Then optimize and run this sample circuit on different backends. Here is a list of questions to get you started:
+1)	Which gate-based quantum computers are accessible to you to implement your circuit?
+2)	Which circuit parameters should be minimized for the most efficient circuit implementation for a given backend?
+3)	What are the main features of TKET, and how can you apply them here?
+4)	Which backend is the best for a given sample circuit and why?
 
+## Knowledgeable: 
+Instead of using a sample circuit, you will perform the tasks outlined for Beginner above for an actual LiH circuit. A given ansatz LiH circuit in the form of a QASM code (LiHJordanWignerMapper.qasm) will be supplied to you for your analysis here. The circuit was obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper. This circuit is quite deep. Before optimization, the circuit will have a total of 12 qubits and more than 16,000 gates.
+
+## Advanced: 
+You are comfortable with how TKET can optimally route circuits onto real hardware. You are now asked to use the VQE algorithm to estimate the ground state energy for a LiH molecule. You should create your own ansatz LiH circuit for this challenge. Is it possible to create a 6-qubit ansatz circuit with a different mapper/converter than the Jordan-Wigner Mapper? Do you get different results depending on the quantum computer/simulator used? How do your results compare to known values? Are there any limitations you are confronted with?
+Problem expansion for Advanced: You are also considering how gate fidelity for different operations affects your analysis, i.e. mapping should be noise-aware. 
+
+## See [here](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/2022%20Womanium%20Hackathon%20challenge%20-%20Quantinuum.pdf) for challenge details
 
 ## Note
 File "LiHJordanWignerMapper.qasm":
