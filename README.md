@@ -1,8 +1,8 @@
 # Quantinuum's TKET challenge for the Womanium Global Hackathon
 
-On behalf of Quantinuum, welcome to the Womanium Global Hackathon! This little guide should get you started quickly in `pytket`, a high-performance Python library for building and simplifying quantum programs.
+On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the Womanium Global Hackathon! This little guide should get you started quickly in `pytket`, a high-performance Python library for building and simplifying quantum programs.
 
-TKET is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform agnostic allowing it to target the world’s leading quantum hardware and simulators. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
+[TKET](https://www.quantinuum.com/developers/tket) is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform agnostic allowing it to target the world’s leading quantum hardware and simulators. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
 If any questions arise during the hackathon, don't hesitate to contact me:
 Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com)
@@ -27,7 +27,7 @@ Recommended examples applicable to this Hackathon you can go through as a contin
 Your company builds hydrogen fuel cell vehicles and is interested in finding new ways for a cost-effective and compact hydrogen storage system. You are working in the research and development (R&D) department and are tasked to evaluate the feasibility to simulate the quantum state of a Lithium Hydride (LiH) molecule using a gate-based quantum device. Based on the known gate sets and the qubit coupling maps, you are tasked to find the best quantum device currently available.
 
 ## Beginner: 
-You will first get a feel for how TKET optimizes and compiles sample circuits for a given backend. You can create a sample circuit of your choice, or you can use some circuits, given as QASM code, here. Then optimize and run this sample circuit on different backends. Here is a list of questions to get you started:
+You will first get a feel for how TKET optimizes and compiles sample circuits for a given backend. You can create a sample circuit of your choice, or you can use some circuits, given as QASM code, [here](https://github.com/spendierk/ethz-hackathon22/tree/main/benchmarking/circuits). Then optimize and run this sample circuit on different backends. Here is a list of questions to get you started:
 1)	Which gate-based quantum computers are accessible to you to implement your circuit?
 2)	Which circuit parameters should be minimized for the most efficient circuit implementation for a given backend?
 3)	What are the main features of TKET, and how can you apply them here?
@@ -38,6 +38,7 @@ Instead of using a sample circuit, you will perform the tasks outlined for Begin
 
 ## Advanced: 
 You are comfortable with how TKET can optimally route circuits onto real hardware. You are now asked to use the VQE algorithm to estimate the ground state energy for a LiH molecule. You should create your own ansatz LiH circuit for this challenge. Is it possible to create a 6-qubit ansatz circuit with a different mapper/converter than the Jordan-Wigner Mapper? Do you get different results depending on the quantum computer/simulator used? How do your results compare to known values? Are there any limitations you are confronted with?
+
 Problem expansion for Advanced: You are also considering how gate fidelity for different operations affects your analysis, i.e. mapping should be noise-aware. 
 
 ## See [here](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/2022%20Womanium%20Hackathon%20challenge%20-%20Quantinuum.pdf) for challenge details
