@@ -44,4 +44,4 @@ Problem expansion for Advanced: You are also considering how gate fidelity for d
 ## See [here](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/2022%20Womanium%20Hackathon%20challenge%20-%20Quantinuum.pdf) for challenge details
 
 ## Note
-File "LiHJordanWignerMapper.qasm" loacted in this GitHub repository is the the ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
+File "LiHJordanWignerMapper.qasm" located in this GitHub repository is the the ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
