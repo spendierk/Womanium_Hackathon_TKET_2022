@@ -39,7 +39,7 @@ Instead of using a sample circuit, you will perform the tasks outlined for Begin
 ## Advanced: 
 You are comfortable with how TKET can optimally route circuits onto real hardware. You are now asked to use the VQE algorithm to estimate the ground state energy for a LiH molecule. You should create your own ansatz LiH circuit for this challenge. Is it possible to create a 6-qubit ansatz circuit with a different mapper/converter than the Jordan-Wigner Mapper? Do you get different results depending on the quantum computer/simulator used? How do your results compare to known values? Are there any limitations you are confronted with? You can consult the [Qiskit nature documentation](https://qiskit.org/documentation/nature/tutorials/index.html) to get you started.
 
-Problem expansion for Advanced: You are also considering how gate fidelity for different operations affects your analysis, i.e. mapping should be noise-aware. 
+Problem expansion for Advanced: You are also considering how errors for different operations affect your analysis, i.e. mapping should be noise-aware. Can you implement some error mitigation techniques to improve your results?
 
 ## See [here](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/2022%20Womanium%20Hackathon%20challenge%20-%20Quantinuum.pdf) for challenge details
 
