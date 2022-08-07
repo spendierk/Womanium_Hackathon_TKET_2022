@@ -10,10 +10,9 @@ Kathrin Spendier: [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quan
 The content of this hackathon manual is as follows:
 1) [Getting ready with `pytket`](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Getting%20ready%20with%20pytket.ipynb)
 2) [Building circuits with `pytket`](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Building%20circuits%20with%20pytket.ipynb)
-3) [Why TKET?](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Why%20TKET.ipynb)
-4) [Running a circuit on IBM's backends](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Running%20a%20circuit%20on%20IBM's%20backends.ipynb)
-5) [Access to Quantinuum and IonQ Backends via Azure](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Access%20to%20Quantinuum%20and%20IonQ%20Backends.ipynb)
-6) [Access to IonQ, Rigetti and OQC via AWS Braket](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Access%20to%20IonQ%2C%20Rigetti%20and%20OQC%20via%20AWS%20Braket.ipynb)
+3) [Running a circuit on IBM's backends](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Running%20a%20circuit%20on%20IBM's%20backends.ipynb)
+4) [Access to Quantinuum and IonQ Backends via Azure](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Access%20to%20Quantinuum%20and%20IonQ%20Backends.ipynb)
+5) [Access to IonQ, Rigetti and OQC via AWS Braket](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/Access%20to%20IonQ%2C%20Rigetti%20and%20OQC%20via%20AWS%20Braket.ipynb)
 
 This was a first glimpse of the workflow from the design of a quantum circuit to its execution. There is much more to discover by looking at an entire series of example notebooks for `pytket`
 available on the [pytket github](https://github.com/CQCL/pytket/tree/master/examples).
