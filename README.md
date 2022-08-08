@@ -61,4 +61,4 @@ Problem expansion for Advanced: You are also considering how errors for differen
 # File Notes
 File "LiHJordanWignerMapper.qasm" located in this GitHub repository is the the ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
 
-File "H2JordanWignerMapper.qasm" located in this GitHub repository is the the ansatz H$_2$ circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
+File "H2JordanWignerMapper.qasm" located in this GitHub repository is the the ansatz H$_{2}$ circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
