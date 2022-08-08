@@ -44,7 +44,19 @@ Problem expansion for Advanced: You are also considering how errors for differen
 
 ## See [here](https://github.com/spendierk/Womanium_Hackathon_TKET_2022/blob/main/2022%20Womanium%20Hackathon%20challenge%20-%20Quantinuum.pdf) for challenge details
 
-## Note
+# Arline Benchmarks
+
+[Arline Benchmarks platform](https://github.com/ArlineQ/arline_benchmarks) allows to benchmark various algorithms for quantum circuit mapping/compression against each other on a list of predefined hardware types and target circuit classes. Arline published a paper in May 2022 with a sumary of their [observations](https://arxiv.org/abs/2202.14025).
+
+## List of supported compilation frameworks
+
+* [Google Cirq](https://github.com/quantumlib/Cirq)
+* [IBM Qiskit](https://github.com/Qiskit)
+* [Quantinuum-CQC TKET](https://github.com/CQCL/tket)
+* [PyZX](https://github.com/Quantomatic/pyzx)
+* [VOQC](https://github.com/inQWIRE/pyvoqc)
+
+# File Notes
 File "LiHJordanWignerMapper.qasm" located in this GitHub repository is the the ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
 
 File "H2JordanWignerMapper.qasm" located in this GitHub repository is the the ansatz H$_2$ circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
