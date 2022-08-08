@@ -48,15 +48,14 @@ Problem expansion for Advanced: You are also considering how errors for differen
 
 # Arline Benchmarks
 
-[Arline Benchmarks platform](https://github.com/ArlineQ/arline_benchmarks) allows to benchmark various algorithms for quantum circuit mapping/compression against each other on a list of predefined hardware types and target circuit classes. Arline published a paper in May 2022 with a sumary of their [observations](https://arxiv.org/abs/2202.14025).
+[Arline Benchmarks platform](https://github.com/ArlineQ/arline_benchmarks) allows to benchmark various algorithms for quantum circuit mapping/compression against each other on a list of predefined hardware types and target circuit classes. Arline published a paper in May 2022 with a summary of their [observations](https://arxiv.org/abs/2202.14025). There are lots of plots and data - pytket performed well.
 
-## List of supported compilation frameworks
+Note that not the current versions of many SDKs were used for this benchmarking project. The versions of SDKs used for Arline's comparison were:
+ - pytket 0.6.0 (September 2020)
+ - qiskit 0.34.2 (February 2022)
+ - pyzx 0.6.0 (June 2020)
+ - cirq 0.13.1 (October 2021)
 
-* [Google Cirq](https://github.com/quantumlib/Cirq)
-* [IBM Qiskit](https://github.com/Qiskit)
-* [Quantinuum-CQC TKET](https://github.com/CQCL/tket)
-* [PyZX](https://github.com/Quantomatic/pyzx)
-* [VOQC](https://github.com/inQWIRE/pyvoqc)
 
 # File Notes
 File "LiHJordanWignerMapper.qasm" located in this GitHub repository is the the ansatz LiH circuit in the form of a QASM code obtained by using the simplest qubit mapper/converter called the Jordan-Wigner Mapper.
