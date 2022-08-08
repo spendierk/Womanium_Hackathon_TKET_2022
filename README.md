@@ -5,7 +5,7 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the Womanium 
 [TKET](https://www.quantinuum.com/developers/tket) is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform agnostic allowing it to target the world’s leading quantum hardware and simulators. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
 If any questions arise during the hackathon, don't hesitate to contact me via Discord "Kathrin [Quantinuum TKET]" or via email
-[kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com). 
+[kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com). #### Note: I will not be available Thursday Aug 11 to Aug 14 and weekends. I am on Mountain Time, UTC−07:00.
 
 There is a public TKET slack channel for community discussion and support. Click [here](https://tketusers.slack.com/join/shared_invite/zt-18qmsamj9-UqQFVdkRzxnXCcKtcarLRA#/shared-invite/email) to join. You can also join our [mailing list](https://list.cambridgequantum.com/cgi-bin/mailman/listinfo/tket-users) for updates on new pytket releases and features. If you have TKET support questions please send them to [tket-support@cambridgequantum.com](mailto:tket-support@cambridgequantum.com).
 
